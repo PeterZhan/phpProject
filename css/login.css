@@ -21,7 +21,7 @@ form{
 
 label {
     display: block;
-    margin: 3em 2em;
+    margin: 1em 1em;
     
     
 }
@@ -33,6 +33,12 @@ label {
 
 #subbutton{
     display: block;
-    margin: 2em auto;
+    margin: 1em auto;
    
+}
+
+h1{
+    text-align: center;
+    
+    
 }
